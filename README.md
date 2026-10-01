@@ -18,7 +18,7 @@ Airport Optimizer is an unofficial Windows utility that safely reduces the disk 
 
 ## Download and installation
 
-1. Download `AirportOptimizer-v3.4.exe` from the repository's **Releases** page or the official Google Drive link shared by the developer.
+1. Download `AirportOptimizer-v3.5.exe` from the repository's **Releases** page or the official Google Drive link shared by the developer.
 2. Keep the file anywhere convenient; no installer is required.
 3. Close Tower! Simulator 3 before optimizing or restoring airports.
 4. Run the executable and use **Auto-detect**, or select the game folder containing the `Airports` directory.
